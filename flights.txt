@@ -1,0 +1,16 @@
+    Delta Airlines: New York - Los Angeles, $250.50
+    United Airlines: New York - Los Angeles, $270.00
+    American Airlines: New York - Los Angeles, $280.75
+    Delta Airlines: New York - Chicago, $200.00
+    United Airlines: New York - Chicago, $210.50
+    Delta Airlines: Los Angeles - Chicago, $185.75
+    United Airlines: Los Angeles - Chicago, $195.50
+    American Airlines: New York - Chicago, $220.25
+    Delta Airlines: Los Angeles - Chicago, $180.00
+    United Airlines: Los Angeles - Chicago, $190.50
+    American Airlines: Los Angeles - Chicago, $195.75
+    Delta Airlines: Los Angeles - New York, $260.25
+    United Airlines: Los Angeles - New York, $270.50
+    American Airlines: Los Angeles - New York, $280.25
+    Delta Airlines: Chicago - New York, $210.75
+    United Airlines: Chicago - New York, $220.00
